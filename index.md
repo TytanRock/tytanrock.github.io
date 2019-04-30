@@ -1,7 +1,9 @@
-# Welcome
+# TytanRock
 Welcome to TytanRock.com
 
 I created this website as a means of holding all my projects together in a neat and organized way.
+
+Below are some links to the various platforms I'm on
 
 # GitHub
 
@@ -27,5 +29,8 @@ Notable repositories I've participated in:
  - [Software used to keep a two-wheeled robot upright](https://github.com/CrossTheRoadElec/CTRE-Balance-Bot)
  - [Port of candleLight firmware from CANable to HERO](https://github.com/CrossTheRoadElec/HERO-STM32F4-Applications)
  - General upkeep of firmware and api for [Talon SRX](http://www.ctr-electronics.com/talon-srx.html), [Victor SPX](http://www.ctr-electronics.com/victor-spx.html), [CANifier](http://www.ctr-electronics.com/can-can-canifier-driver-led-driver-gpio.html), and [Pigeon IMU](http://www.ctr-electronics.com/gadgeteer-imu-module-pigeon.html)
+
+# Chief Delphi
+I have a chief delphi account, also [TytanRock](https://www.chiefdelphi.com/u/TytanRock/), that I will sometimes post on.
 
 
