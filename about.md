@@ -2,6 +2,13 @@
 title: About 
 permalink: /about
 ---
+# Me
+I'm Cory Ness, a CS Student at Kettering University.
+
+I work at Cross The Road Electronics as a software engineering intern.
+
+Contact me at coryness@tytanrock.com
+
 # GitHub
 
 ## Personal Github
