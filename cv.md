@@ -1,9 +1,13 @@
 ---
 title: CV
+strip_title: true
+strip_acknowledgmenets: true
 permalink: /cv
 ---
 
 # Cory Ness
+
+#### Email: coryness@tytan.rocks
 
 ## Education
 <p>
@@ -32,10 +36,10 @@ permalink: /cv
    - Java: FRC Robotics, Applications
    - C#: Windows Applications, Unity
    - LabVIEW: FRC Robotics
- - Continuous Integration: Jenkins running on a private server
  - Embedded Systems
    - Microchip products: PIC24, PIC32, *MicroStick*
    - ST products: STM32, STM32Cube, *Nucleo*
+ - Continuous Integration: Jenkins running on a private server
  - GUI Applications: C#/Java GUI applications following typical Frontend-Backend approach
  - Git: Used extensively in personal, work, and school projects. Familiar with CLI and various GUI versions
  - Bash: Used extensively in school projects. Familiar with Linux filesystem, vim, man
