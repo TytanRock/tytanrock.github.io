@@ -13,6 +13,16 @@
 {% seo %}
   </head>
 
+{% if page.strip_sidebar %}
+{% else %}
+  <div class="sidenav">
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/projects">Projects</a>
+    <a href="/cv">CV</a>
+  </div>
+{% endif %}
+  
   <body>
     <div id="container">
       <div class="inner">

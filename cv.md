@@ -2,6 +2,7 @@
 title: CV
 strip_title: true
 strip_acknowledgmenets: true
+strip_sidebar: true
 permalink: /cv
 ---
 
