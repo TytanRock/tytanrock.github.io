@@ -10,33 +10,37 @@ I'm doing a research project with Professor Yunsheng Wang from Kettering's CS De
 
 I'm also working on edge node computing in vehicles as a means of offloading computation-intensive programs to a dedicated computer.
 
-## CS-231 Projects
-My Programming Paradigms class, CS-231, requires multiple projects to be completed for class credit.
+## CS-203 Java and Algorithms III Projects
+Java 3, CS-203, required some projects to be completed.
+I cannot remember what I had to do in the class, as it was a year before I moved it into a Github Repo, however I wanted to add it to help others out if possible.
+Repository is [here](https://github.com/TytanRock/CS-203-Assignments).
 
-The projects include:
- - A **C** program that takes a line of words and reverses each word
-   - IE: "Hello, this is a sentence!" -> ",olleH siht si a !ecnetnes"
- - A **C** program that mimics the linux program "cat", with significantly fewer tags
- - A **C** program that uses multiple programs and pipes them together to check the spelling of a block of text
- - A **Haskell** program that introduces us to Haskell by integrating a simple algorithm to an arbitrary problem
- - A **Haskell** program that checks the spelling of each word in a block of text, similar to the C spellcheck
- - A **Haskell** program that cheats at Hangman as it moves its "chosen" word to be part of the most common word family
+## CS-231 Programming Paradigms Projects
+Programming Paradigms, CS-231, required multiple projects to be completed.
+Those projects consisted of some C projects, and some Haskell projects.
+Repository is [here](https://github.com/TytanRock/CS-231-Projects).
 
-## CS-451 Projects
-My other programming class, Operating Systems, requires multiple projects to be completed for class credit.
+## CS-351 Cloud Computing Projects
+Cloud Computing, CS-351, required some homework assignments to be completed.
+They consisted of using Amazon Web Services to spin up EC2 instances and S3 buckets to process large quantities of data quickly.
+Repository is [here](https://github.com/TytanRock/CS-351-CloudComputing)
 
-Projects include:
- - A **C** program that scans the /proc directory for a specified PID, and replicates the PS output of that PID
- - A **C** program that forks children processes that find primes, and schedules them according to a priority table that is specified.
-
-Beyond the required projects, this repo also integrates Jenkins as a CI on my home server.
+## CS-451 Operating Systems Projects
+Operating Systems, CS-451, required multiple low level C projects to be completed for class credit.
+I have also taken on the added work of integrating Jenkins into every build of a project, to ensure I understand how Jenkins works and how to develop simple C unit tests.
+Repository is [here](https://github.com/TytanRock/CS-451).
 
 # Non-School Projects
 
 ## Home Server
 I've set up a couple home servers to be used as network drives for computer backups for my family.
 
-They're also used for various other things I find interesting, such as setting up gaming servers for friends.
+In addition to this, the servers run Jenkins, which continually scans my account for repositories that need to be built.
+Jenkins is also working with a docker server, so that it can run docker containers with exactly what is needed for the development of an item.
 
 ## CAD-Work
-I have familiarity with Autodesk Inventor and 3D printing, making various items such as a Chess Set or storage items.
+I am familiar with Autodesk Inventor and Onshape for 3d CAD software, where I have designed a chess set, a [3d representation](https://cad.onshape.com/documents/89701ed42737cd73d5f612e3/w/dba0564388030888f467bf9d/e/9a8574c201287417260c4710) of the board game [Settlers of Catan](https://www.catan.com/), among other items.
+
+I have printed out the chess set and the settlers of catan board game using a personal 3d printer, using ABS and PLA filament respectively.
+
+I am also familiar with Autodesk Eagle, and have designed some PCB's for various personal projects.

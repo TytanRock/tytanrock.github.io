@@ -7,18 +7,16 @@ I'm Cory Ness, a CS Student at Kettering University.
 
 I work at Cross The Road Electronics as a software engineering intern.
 
-Contact me at coryness@tytanrock.com
+Contact me at coryness@tytan.rocks
 
 # GitHub
 
 ## Personal Github
 My personal github account is [TytanRock](https://github.com/TytanRock).
 
-Inside the account are some of the projects I've worked on or am working on.
-Notable items would include:
- - Multiple robotC projects from when I worked vex in high school
- - [CS 231](https://github.com/TytanRock/CS-231-Projects) where I keep the code I used from my CS 231 class, programming paradigms
- - [This website's source code](https://github.com/TytanRock/tytanrock.github.io)
+I have multiple repos that range from old high school robotics to college level courses.
+I'd recommend looking at the repositories if you're currently in Kettering and a CS major.
+As always, do not use the repositories to copy off them, but rather as an idea and possibly a means to double check your programs against something else that (probably) works.
 
 ## Robotics Organizations
 I'm also the owner of the [De La Salle Robotics (7762)](https://github.com/De-La-Salle-Robotics) organization as the lead software mentor and am part of the [Killer Bees (33)](https://github.com/FRC33) organization as a graduated software student and occasionally help.
@@ -28,14 +26,32 @@ Both of these organizations are FRC teams using Git and Github as their version 
 I have a sperate Github account for my work, [CoryNessCTR](https://github.com/CoryNessCTR).
 This account is used solely for work related activities at [CTR-Electronics](http://www.ctr-electronics.com/).
 
-Notable repositories I've participated in:
- - [ESP firmware used to emulate the FRC radio](https://github.com/CrossTheRoadElec/HERO-DriverStation)
- - [Software used to keep a two-wheeled robot upright](https://github.com/CrossTheRoadElec/CTRE-Balance-Bot)
- - [Port of candleLight firmware from CANable to HERO](https://github.com/CrossTheRoadElec/HERO-STM32F4-Applications)
- - General upkeep of firmware and api for [Talon SRX](http://www.ctr-electronics.com/talon-srx.html), [Victor SPX](http://www.ctr-electronics.com/victor-spx.html), [CANifier](http://www.ctr-electronics.com/can-can-canifier-driver-led-driver-gpio.html), and [Pigeon IMU](http://www.ctr-electronics.com/gadgeteer-imu-module-pigeon.html)
+This Github account participates in various CTR repositories.
+Anything posted by the account is posted by me, and it gives an idea of the progression I've had throughout my work experience, along with where I currently am at in work.
 
 # Chief Delphi
 I have a chief delphi account, also [TytanRock](https://www.chiefdelphi.com/u/TytanRock/), that I will sometimes post on.
+This is used mostly as a means to help others in the FRC community.
 
+# Robotics
+I participate heavily in FRC robotics, having the following resume:
+ - 2014 - 2017: High school student a part of Killer Bees(33)
+   - 2016: Participate as Software Pit Crew member
+   - 2017: Participate as Lead Software Student and Operator of the robot
+ - 2018: Software Mentor for Killer Bees(33)
+ - 2019 - Present: Secondary Lead Mentor for AutoPilots (7762)
+   - Software Mentor
+   - Electrical Mentor
+   - Design Mentor
 
+I also volunteer as a CSA at various robot competitions. 
+Unfortunately I cannot volunteer as much as I'd like, due to commitments to school and my own robotics team.
+Some events I've CSA'd at:
+ - Southfield (2018, 2019)
+ - Centerline (2018)
+ - Milford (2018)
+ - Jackson (2019)
+
+If you participated in any of the above events and had a guy in an orange hat help you, it was probably me.
+And as always, I'm happy to help any team as much as I can. Send me an email at coryness@tytan.rocks with any questions you have and I'll answer them as best I can.
 
