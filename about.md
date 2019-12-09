@@ -18,9 +18,15 @@ I have multiple repos that range from old high school robotics to college level 
 I'd recommend looking at the repositories if you're currently in Kettering and a CS major.
 As always, do not use the repositories to copy off them, but rather as an idea and possibly a means to double check your programs against something else that (probably) works.
 
+My Github is probably the best way to see how I program and see the progression of my development.
+
 ## Robotics Organizations
-I'm also the owner of the [De La Salle Robotics (7762)](https://github.com/De-La-Salle-Robotics) organization as the lead software mentor and am part of the [Killer Bees (33)](https://github.com/FRC33) organization as a graduated software student and occasionally help.
+I'm also the owner of the [De La Salle Robotics (7762)](https://github.com/De-La-Salle-Robotics) Github organization as the lead software mentor and am part of the [Killer Bees (33)](https://github.com/FRC33) organization as a graduated software student.
 Both of these organizations are FRC teams using Git and Github as their version control system.
+
+Killer Bees uses LabVIEW to program their robot, and the software that's inside their repository, especially between 2014 and 2017, showcases the stuff I did in high school.
+
+De La Salle Robotics uses Java to program their robot, and the software showcased there is mostly representative of the students, however I led the design choice and helped with the more complicated algorithms.
 
 ## Work Github
 I have a sperate Github account for my work, [CoryNessCTR](https://github.com/CoryNessCTR).
@@ -39,7 +45,7 @@ I participate heavily in FRC robotics, having the following resume:
    - 2016: Participate as Software Pit Crew member
    - 2017: Participate as Lead Software Student and Operator of the robot
  - 2018: Software Mentor for Killer Bees(33)
- - 2019 - Present: Secondary Lead Mentor for AutoPilots (7762)
+ - 2019 - Present: Leadership Mentor for AutoPilots (7762)
    - Software Mentor
    - Electrical Mentor
    - Design Mentor

@@ -1,15 +1,16 @@
 ---
 title: TytanRock
 ---
-
 # Cory Ness
-I am a Computer Science major at Kettering University, working on various projects for the purpose of strengthening my own skills.
+Congrats, you found my website.
 
-I'm somewhat active in various online communities under the username TytanRock, links below:
+This website's purpose is to put everything I'm involved in together.
+That may be useful for you if you're an employer or someone trying to find my work.
 
-[Chief Delphi](https://www.chiefdelphi.com/u/tytanrock/summary)
+Visit the [About](/about) section to read more about me.
 
-[GitHub](https://github.com/TytanRock)
+The [Projects](/projects) section covers the projects I'm involved in.
 
-I'm very active in FIRST Robotics Competition (FRC) specifically, having been a part of a team in high school and mentoring a team throughout college.
+And [CV](/cv) has a cover letter for potential employers.
 
+Take a look around.
