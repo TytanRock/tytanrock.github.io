@@ -1,6 +1,9 @@
 ---
 title: TytanRock
 ---
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 # Cory Ness
 Congrats, you found my website.
 
