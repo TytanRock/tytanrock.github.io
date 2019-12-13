@@ -11,6 +11,6 @@ Visit the [About](/about) section to read more about me.
 
 The [Projects](/projects) section covers the projects I'm involved in.
 
-And <a href="/CV.pdf" target="_blank">CV</a>  has a cover letter for potential employers.
+And <a href="/Resume-Cleaned.pdf" target="_blank">Resume</a>  has a short resume for potential employers.
 
 Take a look around.
