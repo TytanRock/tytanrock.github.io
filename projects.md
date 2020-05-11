@@ -6,9 +6,9 @@ permalink: /projects
 # School-Related Projects
 
 ## Research Project
-I'm doing a research project with Professor Yunsheng Wang from Kettering's CS Department, involving MK5 DSRC units and communication between them in a V2V (vehicle to vehicle) and V2X (vehicle to infrastructure) style.
+I'm doing a research project with Dr. Yunsheng Wang from Kettering's CS Department. The research involves MK5 DSRC units and communication between them in a V2V (vehicle to vehicle) and V2X (vehicle to infrastructure) style.
 
-I'm also working on edge node computing in vehicles as a means of offloading computation-intensive programs to a dedicated computer.
+I'm also working on edge node computing in vehicles as a means of offloading computation-intensive programs to a dedicated computer. I.E. Vision processing on a dedicated offboard processor to improve performance of automated vehicles.
 
 ## CS-203 Java and Algorithms III Projects
 Java 3, CS-203, required some projects to be completed.
@@ -35,12 +35,31 @@ Repository is [here](https://github.com/TytanRock/CS-451).
 ## Home Server
 I've set up a couple home servers to be used as network drives for computer backups for my family.
 
-In addition to this, the servers run Jenkins, which continually scans my account for repositories that need to be built.
-Jenkins is also working with a docker server, so that it can run docker containers with exactly what is needed for the development of an item.
+### Docker
+I've set up a docker interface on one of the servers that allow me to deploy docker containers. I tend to prefer deploying docker containers for major applications such as jenkins to make the process simpler and controlled. I handle the containers using Portainer and a web interface.
+
+### Jenkins
+One of those major applications I use a docker container for is Jenkins. It's configured to look at my repositories and try to build them based on a Jenkinsfile that exists in them. I've utilized Jenkins in my CS 451 assignments to verify they pass verification tests, but not much beyond that.
+
+### Visual Studio Code in Webpage interface
+I'm also the programming mentor of a robotics team, where we use Java. The team members are assigned chromebooks from their school, so they are stuck without capability of programming for the robot, which really sucks normally. I've looked for solutions to this, and settled on code-server, a visual studio code implementation in a web browser. I've configured the one that my team uses to have all the necessary WPI extensions, so that the students can focus on the programming aspect of the robot. It works pretty well, and using Git and Github, we're able to easily transfer changes from the server to a local machine for deployment.
+
+### Minecraft Serrver
+Of course, I have a minecraft server on the machine. I found out that there exists Minecraft docker containers, which are super fun because I can set up the container with rules to restart the server in case of a power outage. 
+
+## Embedded Systems
+I'm interested in embedded systems, so I have a repo for the various projects I pick up and work on. I'll do things like connect a dsPic to an RFID reader, or to an lcd display and see if I can communicate with it successfully.
+Repository is [here](https://github.com/TytanRock/DsPIC-Projects).
+
+## Hacking and Penetration Testing
+Recently, I've taken an interest in penetration testing and set up a kali machine to advance my understanding of it. I've been using the website [TryHackMe](https://tryhackme.com/) to learn various techniques and the tools used.
+My profile is available under the same username, [here](https://tryhackme.com/p/TytanRock).
 
 ## CAD-Work
-I am familiar with Autodesk Inventor and Onshape for 3d CAD software, where I have designed a chess set, a [3d representation](https://cad.onshape.com/documents/89701ed42737cd73d5f612e3/w/dba0564388030888f467bf9d/e/9a8574c201287417260c4710) of the board game [Settlers of Catan](https://www.catan.com/), among other items.
+### Inventor and Onshape
+I am familiar with Autodesk Inventor and Onshape for 3d CAD software, where I have designed a chess set using Inventor, and a [3d Model](https://cad.onshape.com/documents/89701ed42737cd73d5f612e3/w/dba0564388030888f467bf9d/e/9a8574c201287417260c4710) of the board game [Settlers of Catan](https://www.catan.com/) using Onshape, among other various items.
 
 I have printed out the chess set and the settlers of catan board game using a personal 3d printer, using ABS and PLA filament respectively.
 
-I am also familiar with Autodesk Eagle, and have designed some PCB's for various personal projects.
+### Eagle
+I am also familiar with Autodesk Eagle. The biggest project for this would be my PCB that converts game arcades to retropie arcades. The PCB itself is simple, but includes rerouting a 20pin header and a simple audio amplifier to utilize the built in speakers for the arcade. Available [here](https://github.com/TytanRock/Eagle-Projects).
