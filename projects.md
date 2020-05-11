@@ -44,7 +44,7 @@ One of those major applications I use a docker container for is Jenkins. It's co
 ### Visual Studio Code in Webpage interface
 I'm also the programming mentor of a robotics team, where we use Java. The team members are assigned chromebooks from their school, so they are stuck without capability of programming for the robot, which really sucks normally. I've looked for solutions to this, and settled on code-server, a visual studio code implementation in a web browser. I've configured the one that my team uses to have all the necessary WPI extensions, so that the students can focus on the programming aspect of the robot. It works pretty well, and using Git and Github, we're able to easily transfer changes from the server to a local machine for deployment.
 
-### Minecraft Serrver
+### Minecraft Server
 Of course, I have a minecraft server on the machine. I found out that there exists Minecraft docker containers, which are super fun because I can set up the container with rules to restart the server in case of a power outage. 
 
 ## Embedded Systems
@@ -62,4 +62,4 @@ I am familiar with Autodesk Inventor and Onshape for 3d CAD software, where I ha
 I have printed out the chess set and the settlers of catan board game using a personal 3d printer, using ABS and PLA filament respectively.
 
 ### Eagle
-I am also familiar with Autodesk Eagle. The biggest project for this would be my PCB that converts game arcades to retropie arcades. The PCB itself is simple, but includes rerouting a 20pin header and a simple audio amplifier to utilize the built in speakers for the arcade. Available [here](https://github.com/TytanRock/Eagle-Projects).
+I am also familiar with Autodesk Eagle. The biggest project for this would be my PCB that converts game arcades to retropie arcades. The PCB itself is simple but includes rerouting a 20pin header and a simple audio amplifier to utilize the built in speakers for the arcade. Available [here](https://github.com/TytanRock/Eagle-Projects).
