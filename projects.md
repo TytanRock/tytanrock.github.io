@@ -54,6 +54,7 @@ Repository is [here](https://github.com/TytanRock/DsPIC-Projects).
 ## Hacking and Penetration Testing
 Recently, I've taken an interest in penetration testing and set up a kali machine to advance my understanding of it. I've been using the website [TryHackMe](https://tryhackme.com/) to learn various techniques and the tools used.
 My profile is available under the same username, [here](https://tryhackme.com/p/TytanRock).
+<script src="https://tryhackme.com/badge/39868"></script>
 
 ## CAD-Work
 ### Inventor and Onshape
