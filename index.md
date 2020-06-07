@@ -16,4 +16,6 @@ The [Projects](/projects) section covers the projects I'm involved in.
 
 And <a href="/Resume-Cleaned.pdf" target="_blank">Resume</a>  has a short resume for potential employers.
 
+[Archives](/archives) covers the various projects I'd like to archive, as they have an element of time-progression to them.
+
 Take a look around.
