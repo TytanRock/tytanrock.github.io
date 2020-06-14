@@ -1,6 +1,7 @@
 ---
 title: Archives
 permalink: /archives
+description: Archive of projects over time
 ---
 
 # Archive of Various Items

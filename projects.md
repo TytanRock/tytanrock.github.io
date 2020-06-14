@@ -1,6 +1,7 @@
 ---
 title: Projects
 permalink: /projects
+description: Various projects I've done
 ---
 
 # School-Related Projects

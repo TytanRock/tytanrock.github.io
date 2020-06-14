@@ -1,6 +1,7 @@
 ---
 title: About 
 permalink: /about
+description: Who I am and where to find me 
 ---
 # Me
 I'm Cory Ness, a CS Student at Kettering University.

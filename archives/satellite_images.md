@@ -1,6 +1,7 @@
 ---
 title: Archived Satellite Images
 permalink: /archives/satellite_images
+description: All the satellite images taken with handmade antenna
 ---
 
 # NOAA Satellite Images

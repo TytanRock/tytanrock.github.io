@@ -40,12 +40,17 @@
   /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
   @media only screen and (max-width: 767px) {
     .sidenav {
+      left: -100px;
+      transition: 0.3s;
       padding-top: 15px;
-      width: 100px;
+      width: 120px;
     }
-    .sidenav a {font-size: 18px;}
+    .sidenav:hover {
+      left: 0;
+    }
+    .sidenav a {font-size: 20px;}
     .inner {
-      width: 60%;
-      margin-left: 100px;
+      width: 85%;
+      margin-left: 22px;
     }
   }
