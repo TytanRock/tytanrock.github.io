@@ -7,7 +7,7 @@ description: Various projects I've done
 # School-Related Projects
 
 ## Research Project
-<img src="/assets/images/other/cohda.jfif" alt="Image of CohdaMK5" style="float:right">
+<img src="/assets/images/projects/cohda.jfif" alt="Image of CohdaMK5" style="float:right">
 I'm doing a research project with Dr. Yunsheng Wang from Kettering's CS Department. The research involves MK5 DSRC units and communication between them in a V2V (vehicle to vehicle) and V2X (vehicle to infrastructure) style.
 
 I'm also working on edge node computing in vehicles as a means of offloading computation-intensive programs to a dedicated computer. I.E. Vision processing on a dedicated offboard processor to improve performance of automated vehicles.
@@ -44,7 +44,7 @@ I've set up a docker interface on one of the servers that allow me to deploy doc
 
 One of those major applications I use a docker container for is Jenkins. It's configured to look at my repositories and try to build them based on a Jenkinsfile that exists in them. I've utilized Jenkins in my CS 451 assignments to verify they pass verification tests, but not much beyond that.
 
-<a href="https://www.jenkins.io/"><img src="/assets/images/other/jenkins.png" alt="Image of Jenkins App" style="margin-left:20px;height:120px;width:100px;"></a>
+<a href="https://www.jenkins.io/"><img src="/assets/images/projects/jenkins.png" alt="Image of Jenkins App" style="margin-left:20px;height:120px;width:100px;"></a>
 
 ### Visual Studio Code in Webpage interface
 I'm also the programming mentor of a robotics team, where we use Java. The team members are assigned chromebooks from their school, so they are stuck without capability of programming for the robot, which really sucks normally. I've looked for solutions to this, and settled on code-server, a visual studio code implementation in a web browser. I've configured the one that my team uses to have all the necessary WPI extensions, so that the students can focus on the programming aspect of the robot. It works pretty well, and using Git and Github, we're able to easily transfer changes from the server to a local machine for deployment.
@@ -67,10 +67,10 @@ I am familiar with Autodesk Inventor and Onshape for 3d CAD software, where I ha
 
 I have printed out the chess set and the settlers of catan board game using a personal 3d printer, using ABS and PLA filament respectively.
 
-<a href="https://cad.onshape.com/documents/89701ed42737cd73d5f612e3/w/dba0564388030888f467bf9d/e/9a8574c201287417260c4710"> <img src="/assets/images/other/SettlersOfCatan.png" alt="Image of Settlers of Catan CAD"> </a>
+<a href="https://cad.onshape.com/documents/89701ed42737cd73d5f612e3/w/dba0564388030888f467bf9d/e/9a8574c201287417260c4710"> <img src="/assets/images/projects/SettlersOfCatan.png" alt="Image of Settlers of Catan CAD"> </a>
 
 ### Eagle
 I am also familiar with Autodesk Eagle. The biggest project for this would be my PCB that converts game arcades to retropie arcades. The PCB itself is simple but includes rerouting a 20pin header and a simple audio amplifier to utilize the built in speakers for the arcade. Available [here](https://github.com/TytanRock/Eagle-Projects).
 
-<img src="/assets/images/other/eagle.png" alt="Image of Eagle CAD">
-<img src="/assets/images/other/board.png" alt="Image of Assembled board" style="width:600px;height:400px;">
+<img src="/assets/images/projects/eagle.png" alt="Image of Eagle CAD">
+<img src="/assets/images/projects/board.png" alt="Image of Assembled board" style="width:600px;height:400px;">
