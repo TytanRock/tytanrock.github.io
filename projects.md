@@ -47,10 +47,10 @@ One of those major applications I use a docker container for is Jenkins. It's co
 <a href="https://www.jenkins.io/"><img src="/assets/images/projects/jenkins.png" alt="Image of Jenkins App" style="margin-left:20px;height:120px;width:100px;"></a>
 
 ### Visual Studio Code in Webpage interface
-I'm also the programming mentor of a robotics team, where we use Java. The team members are assigned chromebooks from their school, so they are stuck without capability of programming for the robot, which really sucks normally. I've looked for solutions to this, and settled on code-server, a visual studio code implementation in a web browser. I've configured the one that my team uses to have all the necessary WPI extensions, so that the students can focus on the programming aspect of the robot. It works pretty well, and using Git and Github, we're able to easily transfer changes from the server to a local machine for deployment.
+I'm also the programming mentor of a robotics team, where we use Java. The team members are assigned chromebooks from their school, which means they are unable to install and run visual studio code, the IDE we use to program in FRC. I've looked for solutions to this, and settled on [code-server](https://github.com/cdr/code-server), a visual studio code implementation in a web browser. I've configured the one that my team uses to have all the necessary WPI extensions, so that the students can focus on the programming aspect of the robot. It works pretty well, and using Git and Github, we're able to easily transfer changes from the server to a local machine for deployment.
 
 ### Minecraft Server
-Of course, I have a minecraft server on the machine. I found out that there exists Minecraft docker containers, which are super fun because I can set up the container with rules to restart the server in case of a power outage. 
+Of course, I have a minecraft server on the machine. I found out that there exists Minecraft docker containers, which are super fun because I can set up the container with rules to restart the server in case of a power outage. I currently run both a vanilla server using paper, and a FTB revelation server, neither of which are public.
 
 ## Embedded Systems
 I'm interested in embedded systems, so I have a repo for the various projects I pick up and work on. I'll do things like connect a dsPic to an RFID reader, or to an lcd display and see if I can communicate with it successfully.
@@ -59,6 +59,9 @@ Repository is [here](https://github.com/TytanRock/DsPIC-Projects).
 ## Hacking and Penetration Testing
 Recently, I've taken an interest in penetration testing and set up a kali machine to advance my understanding of it. I've been using the website [TryHackMe](https://tryhackme.com/) to learn various techniques and the tools used.
 My profile is available under the same username, [here](https://tryhackme.com/p/TytanRock).
+
+I've also begun work on a repository to increase my efficiency, developing tools that I find useful. It's kind of like metasploit, but tailored to what I'm doing, that repository is available [here](https://github.com/TytanRock/kali-scripts).
+
 <script src="https://tryhackme.com/badge/39868"></script>
 
 ## CAD-Work
