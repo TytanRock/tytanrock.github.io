@@ -50,7 +50,7 @@ I participate heavily in FRC robotics, having the following resume:
    - 2016: Participate as Software Pit Crew member
    - 2017: Participate as Lead Software Student and Operator of the robot
 
-<img src="/assets/images/other/BuzzXXII.png" alt="Image of the Killer Bee's 2017 robot" title="Killer Bee's Robot during my Senior Year" style="width:30%;height=30%">
+<img src="/assets/images/other/BuzzXXII.png" alt="Image of the Killer Bee's 2017 robot" title="Killer Bee's Robot during my Senior Year" style="width:350px;height=240px">
 
  - 2018: Software Mentor for Killer Bees (33)
  - 2019 - Present: Leadership Mentor for AutoPilots (7762)
@@ -58,7 +58,7 @@ I participate heavily in FRC robotics, having the following resume:
    - Electrical Mentor
    - Design Mentor
 
-<img src="/assets/images/other/Maverick2.jpg" alt="Image of Autopilot's Robot" title="Autopilot's Robot for the 2020 season" style="width:30%;height:30%">
+<img src="/assets/images/other/Maverick2.jpg" alt="Image of Autopilot's Robot" title="Autopilot's Robot for the 2020 season" style="width:350px;height:250px">
 
 I also volunteer as a CSA at various robot competitions. 
 Unfortunately I cannot volunteer as much as I'd like, due to commitments to school and my own robotics team.
