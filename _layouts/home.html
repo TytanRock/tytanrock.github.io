@@ -30,6 +30,14 @@
   <body>
     <div id="container">
       <div class="inner">
+        <div class="sidenav">
+          <br>
+          <a href="/">Home</a>
+          <a href="/about">About</a>
+          <a href="/projects">Projects</a>
+          <a href="/archives">Archives</a>
+          <a href="/Resume-Cleaned.pdf" target="_blank">Resume</a>
+        </div>
 
         {% if page.strip_title %}
         {% else %}
@@ -40,20 +48,31 @@
         <hr style="text-align:center;">
         {% endif %}
         <section id="main_content">
+            <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
             <p style="text-align:center;">
                 Congrats, you found my website.
                 
                 This website's purpose is to put everything I'm involved in together.
                 That may be useful for you if you're an employer or someone trying to find my work.
-            </p>
-            <p style="text-align:center;">
-                <button type="button" class="button" onclick="location.href='/about';"><b>About</b></button>
-                <button type="button" class="button" onclick="location.href='/projects';"><b>Projects</b></button>
-                <button type="button" class="button" onclick="location.href='/archives';"><b>Archives</b></button>
-                <button type="button" class="button" onclick="location.href='/Resume-Cleaned.pdf';"><b>Resume</b></button>
-            </p>
-            <p style="text-align:center;">
-                Above are some buttons that take you to the meat of my website. About brings you to a page where 
+                <br>
+                To the side, you can see a navigation bar that brings you to the various parts of my site.
+                <br>
+                <br>
+                <br>
+                My <a href="/about">About</a> link brings you to a page where I talk about myself, what I'm involved in, and things of that nature.
+                It's useful if you want to get a feel of my character.
+                <br>
+                <br>
+                The <a href="/projects">Projects</a> link takes you to a page where I talk about my projects, whether it be during school, work, robotics, or personal.
+                It's got some pretty cool stuff in it, I'd look at it if you're a Kettering CS student looking for help or an employer gauging what I'm capable of.
+                <br>
+                <br>
+                <a href="/archives">Archives</a> takes you to the landing page for my archived projects, which for me are projects that have an ongoing aspect to it.
+                Currently I only have my satellite image project in there, but it's one of the cooler projects I've done so far.
+                <br>
+                <br>
+                Finally, <a href="/Resume-Cleaned.pdf" target="_blank">Resume</a> takes you to a copy of my resume. 
+                Use it as a template for your own resume, or grab it if you're an employer. I don't mind either way.
             </p>
         </section >
         {% if page.strip_acknowledgmenets %}
