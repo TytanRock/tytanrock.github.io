@@ -13,6 +13,12 @@ I modeled the antenna that I'm using and 3d-printed the arms to make sure they a
 
 <a href="https://cad.onshape.com/documents/417c949b1c400718ad9f1661/w/05aeb523f63297d16f2649be/e/5144a1f2b6e79a66b5c89203"> <img src="/assets/images/archive/DoubleCrossDipole.png" alt="Image of the Double Cross Dipole Antenna"> </a>
 
+And I used it to create what's seen below.
+
+<img src="/assets/images/archive/RealAntenna.png" alt="Image of antenna built up" style="height:500px;width:500px;">
+
+<img src="/assets/images/archive/Closeup.png" alt="Image of closeup of the antenna" style="height:500px;width:500px;">
+
 And here are the satellite images that I've captured. Most of them are fuzzy and not very good, but some are pretty cool and I'd like to keep track of them all.
 
 <ul>
