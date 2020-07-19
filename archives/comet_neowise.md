@@ -11,3 +11,7 @@ These are a couple pictures taken using long exposure times of comet NEOWISE on 
 
 <img src="/assets/images/archive/Comet_2.jpg" alt="Comet NEOWISE" style="height:500px;width:500px;">
 
+<img src="/assets/images/archive/Comet_3.jpg" alt="Comet NEOWISE" style="height:500px;width:500px;">
+
+<img src="/assets/images/archive/Comet_4.jpg" alt="Comet NEOWISE" style="height:500px;width:500px;">
+
