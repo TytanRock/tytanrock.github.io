@@ -12,3 +12,8 @@ I created an antenna to capture NOAA satellite images. A more in depth descripti
 
 [Images](/archives/satellite_images)
 
+## Other Images
+Sometimes there's other images that I particularly like, and they will be listed down below.
+
+[Comet NEOWISE](/archives/comet_neowise)
+
