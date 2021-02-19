@@ -6,7 +6,7 @@
 /* The sidebar menu */
 .sidenav {
     height: 100%; /* Full-height: remove this if you want "auto" height */
-    width: 160px; /* Set the width of the sidebar */
+    width: 200px; /* Set the width of the sidebar */
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
@@ -34,18 +34,18 @@
   .inner {
     margin: 0px 160px; /* Same as the width of the sidebar */
     width: 85%;
-    padding-left: 20px;
+    padding-left: 60px;
   }
   
   /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
   @media only screen and (max-width: 767px) {
     .sidenav {
-      left: -100px;
+      left: -145px;
       transition: 0.3s;
       padding-top: 15px;
-      width: 120px;
+      width: 165px;
       border-radius: 0 15px 15px 0;
-      height: 280px;
+      height: 300px;
     }
     .sidenav:hover {
       left: 0;
@@ -55,7 +55,7 @@
       margin-right: 20px;
     }
     .inner {
-      width: 85%;
-      margin-left: 22px;
+      width: 80%;
+      margin-left: 10px;
     }
   }
