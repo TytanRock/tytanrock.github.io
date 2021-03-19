@@ -24,8 +24,18 @@ And here are the satellite images that I've captured. Most of them are fuzzy and
 <ul>
 {% for image in site.static_files reversed %}
     {% if image.path contains 'images/satellite_images' %}
-        <h3>{{ image.name }}</h3>
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        <a href="{{ site.baseurl }}{{ image.path }}" class="js-smartphoto" data-caption="{{ image.name }}" data-id="{{ image.name }}" data-group="1">
+            <img src="{{ site.baseurl }}{{ image.path }}" />
+        </a>
     {% endif %}
 {% endfor %}
 </ul>
+
+
+<link rel="stylesheet" href="../assets/css/smartphoto.min.css">
+<script src="../assets/js/smartphoto.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded',function(){
+  new SmartPhoto(".js-smartphoto");
+});
+</script>
